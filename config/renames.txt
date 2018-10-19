@@ -1,0 +1,9 @@
+﻿ConfigDumpInfo.xml-->ConfigDumpInfo.xml
+Configuration.xml-->Configuration.xml
+CommonModules\ОбщегоНазначенияКлиентСервер.xml-->CommonModules\ОбщегоНазначенияКлиентСервер.xml
+CommonModules\РаботаСExcel.xml-->CommonModules\РаботаСExcel.xml
+CommonModules\СтроковыеФункцииКлиентСервер.xml-->CommonModules\СтроковыеФункцииКлиентСервер.xml
+CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl
+CommonModules\РаботаСExcel\Ext\Module.bsl-->CommonModules\РаботаСExcel\Ext\Module.bsl
+CommonModules\СтроковыеФункцииКлиентСервер\Ext\Module.bsl-->CommonModules\СтроковыеФункцииКлиентСервер\Ext\Module.bsl
+Languages\Русский.xml-->Languages\Русский.xml

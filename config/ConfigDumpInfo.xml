@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="e65c2d39-74cc-46eb-8e15-77d8e9ec6504" configVersion="be543e4b4ab18b43b85b5e4a20b15ed600000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="e65c2d39-74cc-46eb-8e15-77d8e9ec6504.0" configVersion="cc7ca2c472203a45b64ab0cd71a8d66600000000"/>
+		<Metadata name="CommonModule.РаботаСExcel" id="2a215832-5c76-4856-a1bb-849a39554abc" configVersion="ac4bc54a81d59a48807e6d0aecf6b81600000000"/>
+		<Metadata name="CommonModule.РаботаСExcel.Module" id="2a215832-5c76-4856-a1bb-849a39554abc.0" configVersion="dafd73d82ddcd546bcaeca2a287a60ad00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="1a8ea4fc-2bf2-48ab-8c5c-14aea64d4fd3" configVersion="013a2aecd6d4e9439fe48d16d222739a00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="1a8ea4fc-2bf2-48ab-8c5c-14aea64d4fd3.0" configVersion="16e887d32cc1ec4bb98057759ea97b0200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="1c03eac9-d6a3-4f38-ab9e-fa7be6aab1fd" configVersion="eadb5020ffee9747afb5601deca69af700000000"/>
+		<Metadata name="Language.Русский" id="84ab7107-6a06-4241-abcf-056db82c6e00" configVersion="3c9c872ddc3e6e41af1086bef07190bd00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
